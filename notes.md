@@ -17,7 +17,7 @@
 -je nach Design der einzelnen Programmiersprache verschiedene Prinzipien zugrunde. 
 
 ## 4.implementieren:
-anfüllen oder erfüllen
+anfüllen oder erfüllen  
 => Implementieren dass man etwas einbaut oder installiert.
 
 ## 5. zeilen
@@ -28,5 +28,8 @@ anfüllen oder erfüllen
 rectMode (CENTER) interpretiert die ersten beiden Parameter von rect () als Mittelpunkt der Form, während der dritte und vierte Parameter ihre Breite und Höhe sind.
 
 ## 6. dekl & inst
--dekl : estlegung von Dimension, Bezeichner, Datentyp und weiteren Aspekten einer Variable oder eines Unterprogramms.
+-dekl : estlegung von Dimension, Bezeichner, Datentyp und weiteren Aspekten einer Variable oder eines Unterprogramms .  
 -inst: Prozess des Lesens oder Angebens von Informationen, beispielsweise des Speichertyps und der Werte für ein Datenfeld.
+## 7. IDE
+-Editing Source Code. Writing code is an important part of programming.Like: code.org,pycharm,minecraft,scratch, roblox studio ,phpstorm,khanacadamie,clion,replit,   
+  => platform(software) zur programmierung
